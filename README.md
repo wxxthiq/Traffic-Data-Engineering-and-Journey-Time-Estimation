@@ -1,6 +1,7 @@
 # 🚗 Traffic Data Engineering and Journey Time Estimation
+This project was developed as part of the Data Engineering coursework for the MSc in Advanced Computer Science program at The University of Manchester.
 
-This repository contains the Jupyter Notebooks for the Data Engineering coursework, focusing on the analysis of road traffic data from Manchester. The project is divided into two main parts, each covered in a separate notebook.
+This repository contains the Jupyter Notebooks focusing on the analysis of road traffic data from Manchester. The project is divided into two main parts, each covered in a separate notebook.
 
 ---
 
